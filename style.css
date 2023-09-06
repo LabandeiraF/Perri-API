@@ -7,11 +7,14 @@ html¨{
 h1{
     font-family: monospace;
     text-align: center;
+    font-size: 40px;
 }
 
 body{
    background-color:lightgray;
    position: relative;
+   background-image:url(fondo_perri.png);
+
     
    
 }
