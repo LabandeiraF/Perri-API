@@ -1,0 +1,41 @@
+html¨{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: monospace;
+    text-align: center;
+}
+
+body{
+   background-color:lightgray;
+   position: relative;
+    
+   
+}
+
+main{
+    display: grid;
+    gap: 16px;
+}
+
+.contenedor{
+    text-align: center;
+}
+
+.perri{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 2rem;
+
+}
+
+button{
+    border-radius: 4px;
+    font-size: larger;
+    background-image: -webkit-linear-gradient(top, lightgray, orangered);
+    
+}
